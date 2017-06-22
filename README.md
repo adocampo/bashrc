@@ -1,0 +1,2 @@
+# bashrc
+Useful .bashrc stuff 
